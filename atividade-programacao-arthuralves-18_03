@@ -1,21 +1,173 @@
-# Atividade – Prompt Mestre em Programação de Computadores
+# Atividade 05 – Prompt Mestre em Programação de Computadores
  
 ## Tema: Estruturas de Repetição
  
 ### Prompt Mestre Inicial
-"."
+"me explique como trocar o pneu de um carro."
  
 ### Variação 1
-"."
-**Resposta do LLM:** ...
+"descreva passo a passo de forma segura como trocar o pneu de um carro quando estou em uma viagem sozinho"
+
+"🚗 Passo a passo seguro para trocar o pneu sozinho
+1. Segurança primeiro
+Estacione em um local plano e seguro, longe do tráfego.
+
+Ligue o pisca-alerta para avisar outros motoristas.
+
+Coloque o triângulo de sinalização a pelo menos 30 metros atrás do carro.
+
+Puxe o freio de mão e, se possível, engate a primeira marcha (ou “P” no câmbio automático).
+
+2. Preparar os materiais
+Você vai precisar de:
+
+Estepe (pneu reserva)
+
+Macaco
+
+Chave de roda
+
+Triângulo de sinalização
+
+3. Afrouxar os parafusos
+Antes de levantar o carro, use a chave de roda para afrouxar os parafusos do pneu furado.
+
+Não retire totalmente, apenas deixe soltos.
+
+4. Levantar o carro
+Posicione o macaco no ponto de apoio indicado (geralmente marcado na lateral inferior do carro).
+
+Gire o macaco até que o pneu fique suspenso e totalmente fora do chão.
+
+5. Retirar o pneu furado
+Agora sim, remova os parafusos completamente.
+
+Tire o pneu furado e coloque-o de lado.
+
+6. Colocar o estepe
+Encaixe o estepe no lugar.
+
+Coloque os parafusos e aperte-os com a mão primeiro, para garantir que estejam bem posicionados.
+
+7. Baixar o carro e apertar firme
+Abaixe o carro com o macaco até que o pneu toque o chão.
+
+Use a chave de roda para apertar bem os parafusos em cruz (um de frente para o outro), garantindo firmeza.
+
+8. Finalizar
+Guarde o pneu furado e os equipamentos.
+
+Verifique se o estepe está bem fixado.
+
+Retire o triângulo de sinalização e siga viagem."
+
  
 ### Variação 2
-"."
-**Resposta do LLM:** ...
+"otimize essa resposta mostrando os perigos de realizar a troca de um pneu em meio a rodovia."
+
+"🚨 Perigos de trocar pneu na rodovia
+Tráfego intenso e rápido: carros e caminhões passam em alta velocidade, aumentando o risco de atropelamento.
+
+Visibilidade reduzida: à noite ou em dias chuvosos, os motoristas podem não perceber você parado.
+
+Espaço limitado: acostamentos estreitos dificultam manter distância segura do fluxo de veículos.
+
+Estresse e distração: sozinho, você pode ficar nervoso e cometer erros ao manusear o macaco ou os parafusos.
+
+🚗 Passo a passo seguro
+1. Proteja-se primeiro
+Nunca pare em curvas ou locais sem acostamento. Se possível, dirija lentamente até um ponto seguro (posto, área de escape, recuo).
+
+Ligue o pisca-alerta imediatamente.
+
+Coloque o triângulo de sinalização a pelo menos 30 metros atrás do carro (se for rodovia, pode colocar até 100 metros).
+
+Se tiver colete refletivo, vista-o para aumentar sua visibilidade.
+
+2. Prepare os materiais
+Estepe, macaco, chave de roda e triângulo.
+
+Mantenha tudo à mão para não perder tempo exposto na pista.
+
+3. Afrouxe os parafusos
+Com o carro ainda no chão, use a chave de roda para afrouxar os parafusos do pneu furado.
+
+Não retire totalmente ainda.
+
+4. Levante o carro
+Posicione o macaco no ponto de apoio indicado.
+
+Levante até o pneu ficar suspenso.
+
+5. Troque o pneu
+Retire os parafusos e o pneu furado.
+
+Coloque o estepe e encaixe os parafusos com a mão.
+
+6. Finalize rápido
+Abaixe o carro e aperte os parafusos em cruz com firmeza.
+
+Guarde o pneu furado e os equipamentos.
+
+Retire o triângulo e siga viagem até uma borracharia."
  
 ### Variação 3
-"."
-**Resposta do LLM:** ...
+"me explique como se eu fosse iniciante um passo a passo de como trocar o pneu de um carro em uma viagem sozinho em uma rodovia, mostrando também os perigos que eu posso correr ao trocar um pneu em uma rodovia."
+
+🚨 Perigos de trocar pneu na rodovia
+Carros e caminhões em alta velocidade: o maior risco é ser atingido por outro veículo.
+
+Visibilidade baixa: à noite ou em chuva, os motoristas podem não perceber você parado.
+
+Acostamento estreito: muitas vezes não há espaço suficiente para trabalhar com segurança.
+
+Estresse e pressa: sozinho, você pode se atrapalhar e cometer erros.
+
+👉 Por isso, a primeira regra é: sua segurança vem antes do carro. Se não houver espaço seguro, o ideal é chamar guincho ou assistência.
+
+🚗 Passo a passo seguro
+1. Proteja-se primeiro
+Estacione no acostamento mais largo possível ou, se puder, siga até um posto ou área de escape.
+
+Ligue o pisca-alerta imediatamente.
+
+Coloque o triângulo de sinalização bem distante: em rodovia, cerca de 100 metros atrás do carro.
+
+Se tiver, vista um colete refletivo para ser visto pelos outros motoristas.
+
+2. Prepare os materiais
+Estepe, macaco, chave de roda e triângulo.
+
+Deixe tudo pronto para não perder tempo exposto.
+
+3. Afrouxe os parafusos
+Com o carro ainda no chão, use a chave de roda para afrouxar os parafusos do pneu furado.
+
+Não retire totalmente ainda.
+
+4. Levante o carro
+Posicione o macaco no ponto de apoio indicado na lateral inferior do carro.
+
+Levante até o pneu ficar suspenso.
+
+5. Troque o pneu
+Retire os parafusos e o pneu furado.
+
+Coloque o estepe e encaixe os parafusos com a mão.
+
+6. Finalize rápido
+Abaixe o carro e aperte os parafusos em cruz com firmeza.
+
+Guarde o pneu furado e os equipamentos.
+
+Retire o triângulo e siga viagem até uma borracharia.
+
+⚠️ Dicas extras
+Nunca fique entre o carro e a pista. Trabalhe sempre pelo lado interno do acostamento.
+
+Não se apresse demais, mas seja objetivo: quanto menos tempo parado, menor o risco.
+
+Cheque o estepe regularmente para não ter surpresas.
  
 ### Reflexão
 (Análise do estudante sobre os aprendizados e percepções.)
