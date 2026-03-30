@@ -47,6 +47,7 @@ Consultor em tecnologia
 
 # Atividade 03 - Engenharia de Prompt 
 - Missão: Teste o desafio: "Qual é a terceira letra da quinta palavra da frase 'O rato roeu a roupa do Rei de Roma'?" Se a IA errar, refaça o prompt forçando o passo a passo.
+  
   Resposta da IA:
  Vamos analisar a frase: "O rato roeu a roupa do rei de roma".
 
