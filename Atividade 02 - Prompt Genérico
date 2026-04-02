@@ -1,0 +1,12 @@
+# Atividade 02 - Comparação prática de prompt's
+
+- Prompt Genérico: "O que é Machine Learning?"
+  - Resposta da IA: "Machine Learning (ou Aprendizado de Máquina) é um ramo da Inteligência Artificial que permite que computadores aprendam padrões a partir de dados e tomem decisões ou façam previsões sem serem explicitamente programados para cada tarefa."
+
+
+- Prompt Estrturado: Atue como um professor. Explique o que é Machine Learning para um iniciante usando uma analogia com esportes em dois parágrafos.
+  - Resposta da IA: "Imagine que o Machine Learning é como treinar uma equipe de futebol. No começo, os jogadores não sabem exatamente como se posicionar ou reagir em cada situação. Então, o técnico mostra exemplos: como marcar, como passar, como finalizar. Cada treino é um conjunto de dados que os atletas absorvem. Com o tempo, eles começam a reconhecer padrões — por exemplo, quando o adversário se aproxima pela lateral, já sabem qual jogada usar. Esse processo de aprender com a prática é parecido com o que os algoritmos fazem: eles recebem dados, identificam padrões e melhoram suas decisões.
+
+Agora pense em um jogador que aprende sozinho observando o jogo. Ele não recebe instruções diretas, mas percebe que toda vez que o atacante adversário corre em determinada direção, logo vem um cruzamento. Esse aprendizado por observação é como o aprendizado não supervisionado em Machine Learning. Assim como no esporte, quanto mais experiências (dados) o jogador acumula, mais rápido e preciso ele se torna em antecipar jogadas. O computador, da mesma forma, vai ficando “mais esperto” conforme pratica com novos dados."
+
+- Análise Crítica: A resposta mais útil foi a do prompt estruturado, pois mostrando uma analogia sobre esportes, facilita o entendimento da pergunta feita a IA. O prompt bem estruturado facilita tanto o entendimento do pedido a IA, quanto o entendimento do usuário para absorver as informações desejadas.
